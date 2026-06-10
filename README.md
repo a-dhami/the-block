@@ -17,6 +17,12 @@ images that load over the network.
 
 To run the tests: ⌘U.
 
+## Time Spent
+Roughly around 4ish hours spread across 2 days.
+I spent a decent amount of time on polishing portions of the UI.
+Portions of code were kept simple since this was not a production application. Certain features such as filtering and sorting were implemented partially. AI was used to speed up development especially with the implementation of logic, boilerplate code, test generation and portions of UI.
+
+
 ## Stack
 
 - **Frontend:** SwiftUI (iOS 17+)
